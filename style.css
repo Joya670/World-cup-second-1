@@ -112,18 +112,25 @@ section {
     width: 312px;
     left: 300px;
     top: 500px;
+    display: inline;
     position: absolute;
 
 
 }
 
-.tex-1 {
+.t-1 {
+    display: inline;
+    padding-left: 19px;
+    margin-top: 70px;
+}
+
+.text-0 {
     position: absolute;
     border-radius: 10px;
     height: 300px;
     width: 300px;
-    left: 300px;
-    top: 500px;
+    left: 30px;
+    top: 150px;
     position: absolute;
     padding-left: 2%;
 
@@ -140,16 +147,23 @@ section {
 
 }
 
-.tex-2 {
+.t-2 {
+    display: inline;
+    padding-left: 19px;
+    margin-top: 70px;
+}
+
+.text-2 {
     position: absolute;
     border-radius: 10px;
     height: 300px;
     width: 300px;
-    left: 300px;
-    top: 500px;
+    left: 30px;
+    top: 150px;
     position: absolute;
 
 }
+
 
 .img-3 {
     background-color: whitesmoke;
@@ -162,15 +176,27 @@ section {
 
 }
 
-.tex-3 {
+.t-3 {
+    display: inline;
+    padding-left: 19px;
+    margin-top: 70px;
+}
+
+.text-3 {
     position: absolute;
     border-radius: 10px;
     height: 300px;
     width: 300px;
-    left: 300px;
-    top: 500px;
+    left: 30px;
+    top: 150px;
     position: absolute;
 
+}
+
+.t-4 {
+    display: inline;
+    padding-left: 19px;
+    margin-top: 70px;
 }
 
 .img-4 {
@@ -184,13 +210,13 @@ section {
 
 }
 
-.tex-4 {
+.text-4 {
     position: absolute;
     border-radius: 10px;
     height: 300px;
     width: 300px;
-    left: 300px;
-    top: 500px;
+    left: 30px;
+    top: 150px;
     position: absolute;
 
 }
@@ -206,13 +232,19 @@ section {
 
 }
 
-.tex-5 {
+.t-5 {
+    display: inline;
+    padding-left: 19px;
+    margin-top: 70px;
+}
+
+.text-5 {
     position: absolute;
     border-radius: 10px;
     height: 300px;
     width: 300px;
-    left: 300px;
-    top: 500px;
+    left: 30px;
+    top: 150px;
     position: absolute;
 
 }
@@ -228,13 +260,19 @@ section {
 
 }
 
-.tex-6 {
+.t-6 {
+    display: inline;
+    padding-left: 19px;
+    margin-top: 70px;
+}
+
+.text-6 {
     position: absolute;
     border-radius: 10px;
     height: 300px;
     width: 300px;
-    left: 300px;
-    top: 500px;
+    left: 40px;
+    top: 150px;
     position: absolute;
 
 }
@@ -276,32 +314,32 @@ section {
 .tex-1 {
     position: absolute;
     top: 200px;
-    left: 250px;
+    left: 350px;
 
 }
 
 .tex-2 {
     position: absolute;
     top: 200px;
-    left: 400px;
+    left: 450px;
 }
 
 .tex-3 {
     position: absolute;
     top: 200px;
-    left: 560px;
+    left: 640px;
 }
 
 .tex-4 {
     position: absolute;
     top: 200px;
-    left: 680px;
+    left: 780px;
 }
 
 .tex-5 {
     position: absolute;
     top: 200px;
-    left: 780px;
+    left: 880px;
 }
 
 .facebook {
